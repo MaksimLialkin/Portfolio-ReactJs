@@ -1,0 +1,27 @@
+.headerLink {
+    position: fixed;
+    transform: rotate(-90deg);
+    position: absolute;
+    display: flex;
+    justify-content: space-evenly;
+    top: 275px;
+    left: -100px;
+    width: 340px;
+}
+
+.headerLink_title {
+    position: relative;
+    padding-right: 85px;
+    display: inline-block;
+    line-height: 20px;
+}
+
+.headerLink_title::before {
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 1px;
+    background-color: #000;
+    top: 11px;
+    left: 134px;
+}

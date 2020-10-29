@@ -1,12 +1,10 @@
-body{
-  font-family: Poppins;
-font-style: normal;
-font-weight: bold;
+body {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
 }
 
-.container{
-  max-width: 1140px;
-  margin: 0 auto;
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
 }
-
-

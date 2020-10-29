@@ -1,0 +1,11 @@
+.header {
+    min-height: 100vh;
+    position: relative;
+    background-image: url(../../img/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
