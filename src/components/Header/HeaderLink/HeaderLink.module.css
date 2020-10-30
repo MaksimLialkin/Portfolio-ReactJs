@@ -1,7 +1,6 @@
 .headerLink {
     position: fixed;
     transform: rotate(-90deg);
-    position: absolute;
     display: flex;
     justify-content: space-evenly;
     top: 275px;
